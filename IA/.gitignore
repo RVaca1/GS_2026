@@ -1,0 +1,155 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# =========================
+# Virtual Environments
+# =========================
+.env
+.venv
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# =========================
+# dotenv
+# =========================
+.env.*
+!.env.example
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/secrets.toml
+
+# =========================
+# IDEs / Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# macOS / Linux / Windows
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Testing / Coverage
+# =========================
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+.cache/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints
+
+# =========================
+# mypy / pyright
+# =========================
+.mypy_cache/
+.pyright/
+.pyre/
+
+# =========================
+# Ruff / Black
+# =========================
+.ruff_cache/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# SQLite databases
+# =========================
+*.sqlite3
+*.db
+
+# =========================
+# Ollama / AI artifacts
+# =========================
+models/
+artifacts/
+outputs/
+generated/
+cache/
+
+# =========================
+# Rich / CLI outputs
+# =========================
+*.ansi
+*.out
+
+# =========================
+# Node (if frontend added later)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# PyInstaller
+# =========================
+*.spec
+
+# =========================
+# Secrets / Keys
+# =========================
+secrets.toml
+*.pem
+*.key
+*.crt
+
+# =========================
+# Docker
+# =========================
+.dockerignore
