@@ -77,6 +77,20 @@ cp .env.example .env
 python main.py
 ```
 
+## 🌐 Interface Web (Bônus) - Streamlit
+
+Além da CLI, o projeto também conta com uma interface web simples usando **Streamlit**.
+
+### Como executar o Streamlit:
+
+```bash
+# Certifique-se de que as dependências estão instaladas
+pip install -r requirements.txt
+
+# Execute o Streamlit
+streamlit run app.py
+
+
 ### Comandos disponíveis na CLI
 
 | Comando | Descrição |

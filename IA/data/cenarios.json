@@ -1,0 +1,48 @@
+{
+  "cenarios": [
+    {
+      "nome": "Operação Normal",
+      "descricao": "Todos os parâmetros dentro do esperado.",
+      "telemetria": {
+        "latencia_uplink_ms": 380,
+        "throughput_mbps": 92,
+        "saude_antena_phased_array": 97.5,
+        "beam_steering_desvio_graus": 0.018,
+        "carga_termica_transponder_c": 47.2
+      }
+    },
+    {
+      "nome": "Latência Crítica",
+      "descricao": "Latência muito alta impactando serviços.",
+      "telemetria": {
+        "latencia_uplink_ms": 1250,
+        "throughput_mbps": 68,
+        "saude_antena_phased_array": 94,
+        "beam_steering_desvio_graus": 0.035,
+        "carga_termica_transponder_c": 52
+      }
+    },
+    {
+      "nome": "Queda de Throughput",
+      "descricao": "Capacidade reduzida afetando muitas comunidades.",
+      "telemetria": {
+        "latencia_uplink_ms": 520,
+        "throughput_mbps": 28,
+        "saude_antena_phased_array": 89,
+        "beam_steering_desvio_graus": 0.045,
+        "carga_termica_transponder_c": 65
+      }
+    },
+    {
+      "nome": "Superaquecimento",
+      "descricao": "Temperatura crítica no transponder.",
+      "telemetria": {
+        "latencia_uplink_ms": 460,
+        "throughput_mbps": 75,
+        "saude_antena_phased_array": 96,
+        "beam_steering_desvio_graus": 0.022,
+        "carga_termica_transponder_c": 78
+      }
+    }
+  ]
+}
