@@ -8,8 +8,8 @@
 
 | Nome Completo | RM | Turma |
 |---|---|---|
-| [Nome Completo] | RM: XXXXXX | XCCXX |
-| [Nome Completo] | RM: XXXXXX | XCCXX |
+| Ricardo Tunes Vaca | RM: 555919 | 1CCPH |
+| Guilherme de Lucena Fontes | RM: 569658 | 1CCPH |
 
 **Modalidade:** Dupla
 
