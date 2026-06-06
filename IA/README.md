@@ -15,6 +15,11 @@
 
 ---
 
+
+## Link do Video nao listado
+
+https://youtu.be/_dcTlOt_N_0
+
 ## 📡 O que o projeto faz
 
 O **ConnectSat Mission Control** é um sistema de monitoramento inteligente de um satélite de telecomunicações em órbita baixa (LEO), similar ao Starlink ou OneWeb. O sistema simula dados de telemetria em tempo real — latência uplink, throughput do feixe, saúde da antena phased-array, beam steering e carga térmica do transponder — e usa IA generativa (via Ollama Cloud) para interpretar anomalias e traduzir cada evento técnico em impacto concreto para comunidades rurais brasileiras que dependem dessa conexão para acesso à saúde, educação e renda.
