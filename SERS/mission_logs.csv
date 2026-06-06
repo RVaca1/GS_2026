@@ -1,0 +1,70 @@
+Timestamp,Solar,Battery,Temp,Comm,Consumption,Status,Event
+2026-06-01 17:50:02,10,5,29.8,91.1,51.9,CRÍTICO,[17:50:02] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:02,10,5,29.8,91.1,51.9,CRÍTICO,[17:50:02] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:02,10,5,29.8,91.1,38.9,CRÍTICO,[17:50:02] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:04,16.5,5,15,70,43.8,CRÍTICO,[17:50:04] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:04,16.5,5,15,70,43.8,CRÍTICO,[17:50:04] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:04,16.5,5,15,70,43.8,CRÍTICO,[17:50:04] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:04,16.5,5,15,70,32.8,CRÍTICO,[17:50:04] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:05,16.5,5,15,70,200.0,CRÍTICO,[17:50:05] Dados atualizados manualmente.
+2026-06-01 17:50:06,14.3,5,15.2,70,75,CRÍTICO,[17:50:06] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:06,14.3,5,15.2,70,75,CRÍTICO,[17:50:06] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:06,14.3,5,15.2,70,75,CRÍTICO,[17:50:06] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:06,14.3,5,15.2,70,56.2,CRÍTICO,[17:50:06] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:08,14.6,5,15.5,70,51.7,CRÍTICO,[17:50:08] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:08,14.6,5,15.5,70,51.7,CRÍTICO,[17:50:08] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:08,14.6,5,15.5,70,51.7,CRÍTICO,[17:50:08] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:08,14.6,5,15.5,70,38.8,CRÍTICO,[17:50:08] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:10,13.3,5,17.5,70,45.1,CRÍTICO,[17:50:10] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:10,13.3,5,17.5,70,45.1,CRÍTICO,[17:50:10] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:10,13.3,5,17.5,70,45.1,CRÍTICO,[17:50:10] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:10,13.3,5,17.5,70,33.8,CRÍTICO,[17:50:10] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:12,10,5,18.8,70,32.0,CRÍTICO,[17:50:12] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:12,10,5,18.8,70,32.0,CRÍTICO,[17:50:12] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:12,10,5,18.8,70,32.0,CRÍTICO,[17:50:12] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:12,10,5,18.8,70,24.0,CRÍTICO,[17:50:12] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:14,10,5,17.1,71.6,25,CRÍTICO,[17:50:14] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:14,10,5,17.1,71.6,25,CRÍTICO,[17:50:14] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:14,10,5,17.1,71.6,25,CRÍTICO,[17:50:14] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:14,10,5,17.1,71.6,20,CRÍTICO,[17:50:14] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:16,10,5,19.3,70.6,25,CRÍTICO,[17:50:16] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:16,10,5,19.3,70.6,25,CRÍTICO,[17:50:16] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:16,10,5,19.3,70.6,25,CRÍTICO,[17:50:16] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:16,10,5,19.3,70.6,20,CRÍTICO,[17:50:16] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:18,16.9,5.0,19.4,70,25.8,CRÍTICO,[17:50:18] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:18,16.9,5.0,19.4,70,25.8,CRÍTICO,[17:50:18] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:18,16.9,5.0,19.4,70,25.8,CRÍTICO,[17:50:18] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:18,16.9,5.0,19.4,70,20,CRÍTICO,[17:50:18] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:20,15.6,5,22.1,70,26.7,CRÍTICO,[17:50:20] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:20,15.6,5,22.1,70,26.7,CRÍTICO,[17:50:20] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:20,15.6,5,22.1,70,26.7,CRÍTICO,[17:50:20] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:20,15.6,5,22.1,70,20.0,CRÍTICO,[17:50:20] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:22,14.5,5,24.2,73.1,25,CRÍTICO,[17:50:22] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:22,14.5,5,24.2,73.1,25,CRÍTICO,[17:50:22] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:22,14.5,5,24.2,73.1,25,CRÍTICO,[17:50:22] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:22,14.5,5,24.2,73.1,20,CRÍTICO,[17:50:22] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:24,16.1,5,23.0,76.2,25,CRÍTICO,[17:50:24] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:24,16.1,5,23.0,76.2,25,CRÍTICO,[17:50:24] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:24,16.1,5,23.0,76.2,25,CRÍTICO,[17:50:24] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:24,16.1,5,23.0,76.2,20,CRÍTICO,[17:50:24] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:26,12.3,5,23.8,79.1,25,CRÍTICO,[17:50:26] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:26,12.3,5,23.8,79.1,25,CRÍTICO,[17:50:26] ☀️ ALERTA: Baixa eficiência solar
+2026-06-01 17:50:26,12.3,5,23.8,79.1,25,CRÍTICO,[17:50:26] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:26,12.3,5,23.8,79.1,20,CRÍTICO,[17:50:26] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:40,55.1,21.2,23.2,88.6,55.3,CRÍTICO,[17:50:40] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:40,55.1,21.2,23.2,88.6,41.5,CRÍTICO,[17:50:40] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:42,60.6,22.5,28.4,90.4,46.5,CRÍTICO,[17:50:42] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:42,60.6,22.5,28.4,90.4,34.9,CRÍTICO,[17:50:42] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:44,64.2,23.9,26.8,70,32.2,CRÍTICO,[17:50:44] 🔥 ALERTA CRÍTICO: Bateria em nível crítico!
+2026-06-01 17:50:44,64.2,23.9,26.8,70,32.2,CRÍTICO,[17:50:44] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:44,64.2,23.9,26.8,70,24.2,CRÍTICO,[17:50:44] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:46,65.9,25.4,25.9,72.6,25,ATENÇÃO,[17:50:46] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:46,65.9,25.4,25.9,72.6,20,ATENÇÃO,[17:50:46] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:47,65.9,25.4,25.9,72.6,100.0,ATENÇÃO,[17:50:47] Dados atualizados manualmente.
+2026-06-01 17:50:48,70.5,27.0,25.5,70.9,75,ATENÇÃO,[17:50:48] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:48,70.5,27.0,25.5,70.9,56.2,ATENÇÃO,[17:50:48] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:50,77.9,28.8,26.6,70,61.4,ATENÇÃO,[17:50:50] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:50,77.9,28.8,26.6,70,46.1,ATENÇÃO,[17:50:50] 🤖 DECISÃO: Modo Economia Ativado (Consumo reduzido)
+2026-06-01 17:50:52,80.9,30.8,25.3,72.2,40.5,ATENÇÃO,[17:50:52] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:54,79.6,32.6,25.9,74.0,42.9,ATENÇÃO,[17:50:54] 📡 ALERTA: Comunicação instável
+2026-06-01 17:50:56,86.2,34.7,25.8,70.3,42.3,ATENÇÃO,[17:50:56] 📡 ALERTA: Comunicação instável
