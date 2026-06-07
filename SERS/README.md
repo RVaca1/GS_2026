@@ -26,7 +26,7 @@ O sistema simula o monitoramento em tempo real de uma base espacial, analisando 
 git clone <seu-link>
 
 # 2. Entre na pasta
-cd gs-energia-espacial
+cd SERS
 
 # 3. Execute o sistema
 python main.py
