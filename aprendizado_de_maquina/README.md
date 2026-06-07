@@ -161,7 +161,7 @@ R² = 0,1584 | r = -0,3980 | p-valor < 0,001
 
 ## 📎 Link do Repositório GitHub
 
-> _Insira aqui o link do repositório após publicação_
+> _https://github.com/RVaca1/GS_2026/tree/main/aprendizado_de_maquina_
 
 ---
 
