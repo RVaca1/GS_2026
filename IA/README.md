@@ -79,7 +79,7 @@ cp .env.example .env
 # OLLAMA_API_KEY=sua_chave_aqui
 
 # 5. Execute o sistema
-python main.py
+python mission_control.py
 ```
 
 ## 🌐 Interface Web (Bônus) - Streamlit
@@ -148,7 +148,7 @@ Em resumo, o modelo é instruído a atuar como **analista sênior de operações
 ## ⚠️ Limitações conhecidas
 
 - A telemetria é **simulada** — os dados são gerados por funções Python com aleatoriedade controlada, não provenientes de um satélite real.
-- O sistema não possui **persistência entre sessões** — o histórico de telemetria é reiniciado a cada execução de `python main.py`.
+- O sistema não possui **persistência entre sessões** — o histórico de telemetria é reiniciado a cada execução de `python mission_control.py`.
 - A latência das respostas da IA depende da disponibilidade e carga da **Ollama Cloud API** — em horários de pico pode haver demora de 5–15 segundos por chamada.
 - O modelo `gpt-oss:120b` é **não-determinístico**: respostas para o mesmo cenário podem variar entre execuções. O system prompt foi calibrado para minimizar essa variação, mas não eliminá-la.
 - A interface é exclusivamente **CLI** — não há dashboard web ou visualização gráfica nesta versão.
